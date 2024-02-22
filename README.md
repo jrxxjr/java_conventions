@@ -2,7 +2,7 @@
 # Exemplo de como utilizar de convenções de nomenclatura no código Java.
 
 1 - Foi criado um projeto Maven do Eclipse, é só importar um projeto Maven no Eclipse.  
-
+_______________________________________________________________________________________________
 English: 
 # Example of how to use code conventions in the Java code.
 
